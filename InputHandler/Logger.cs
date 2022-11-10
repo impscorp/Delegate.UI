@@ -1,25 +1,26 @@
 using System;
 
 namespace InputHandler;
-
-public class Logger
+public delegate void LoggerEvent<T> (T arg);
+public class Logger<T>
 {
-    public event EventHandler OnLog;
-    
-//write log 
-    public void WriteLog(string message)
+    public event LoggerEvent<T> OnLog;
+
+    public Logger(T message)
     {
-        OnLog?.Invoke(this, new LogEventArgs(message));
+        OnLog += (Log);
+        OnLog.Invoke(message);
     }
     
-//log event args
-    public class LogEventArgs : EventArgs
+    void Log(T message)
     {
-        public string Message { get; set; }
-        public LogEventArgs(string message)
+        if (message is string)
         {
-            Message = message;
+            Console.WriteLine(message);
+        }
+        else
+        {
+            Console.WriteLine("Not a string");
         }
     }
-    
 }

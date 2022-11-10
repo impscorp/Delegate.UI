@@ -1,14 +1,18 @@
 using System;
 
 namespace InputHandler;
-
+public delegate void NumberLogEvent(int number);
 public class NumberLogger
 {
-    public event EventHandler OnLog;
-    
+    public event NumberLogEvent OnLog;
+
+    public NumberLogger(int number)
+    {
+        OnLog += (Log);
+        OnLog.Invoke(number);
+    }  
     public void Log(int number)
     {
-        Console.WriteLine(number);
-        OnLog?.Invoke(this, EventArgs.Empty);
+        var logger = new Logger<int>(number);
     }
 }
