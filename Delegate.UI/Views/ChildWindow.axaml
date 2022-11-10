@@ -1,0 +1,32 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="200" d:DesignHeight="200"
+        x:Class="Delegate.UI.Views.ChildWindow"
+        Title="ChildWindow"
+        TransparencyLevelHint="ForceAcrylicBlur"
+        Background="Transparent"
+        ExtendClientAreaToDecorationsHint="True">
+
+        <Window.Width>200</Window.Width>
+        <Window.Height>200</Window.Height>
+        <Panel>
+                <ExperimentalAcrylicBorder IsHitTestVisible="False">
+                        <ExperimentalAcrylicBorder.Material>
+                                <ExperimentalAcrylicMaterial
+                                        BackgroundSource="Digger"
+                                        TintColor="Black"
+                                        TintOpacity="1"
+                                        MaterialOpacity="0.1" />
+                        </ExperimentalAcrylicBorder.Material>
+                </ExperimentalAcrylicBorder>
+                <Grid>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <Button Content="say hello" Click="Button_Click"/>
+                                <Button Content="dice roll" Click="Button_Click_1"/>
+                        </StackPanel>
+                </Grid>
+        </Panel>
+
+</Window>

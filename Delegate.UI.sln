@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate.UI", "Delegate.UI\Delegate.UI.csproj", "{7522B5FE-0D4D-4CCE-8D45-83AC45E6E4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputHandler", "InputHandler\InputHandler.csproj", "{381B9B19-022D-4A86-83C4-E9BC5996EA78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7522B5FE-0D4D-4CCE-8D45-83AC45E6E4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7522B5FE-0D4D-4CCE-8D45-83AC45E6E4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7522B5FE-0D4D-4CCE-8D45-83AC45E6E4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7522B5FE-0D4D-4CCE-8D45-83AC45E6E4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381B9B19-022D-4A86-83C4-E9BC5996EA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381B9B19-022D-4A86-83C4-E9BC5996EA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381B9B19-022D-4A86-83C4-E9BC5996EA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381B9B19-022D-4A86-83C4-E9BC5996EA78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

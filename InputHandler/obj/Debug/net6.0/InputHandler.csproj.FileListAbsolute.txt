@@ -1,0 +1,15 @@
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/bin/Debug/net6.0/InputHandler
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/bin/Debug/net6.0/InputHandler.deps.json
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/bin/Debug/net6.0/InputHandler.runtimeconfig.json
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/bin/Debug/net6.0/InputHandler.dll
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/bin/Debug/net6.0/InputHandler.pdb
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/InputHandler.csproj.AssemblyReference.cache
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/InputHandler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/InputHandler.AssemblyInfoInputs.cache
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/InputHandler.AssemblyInfo.cs
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/InputHandler.csproj.CoreCompileInputs.cache
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/InputHandler.dll
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/refint/InputHandler.dll
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/InputHandler.pdb
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/InputHandler.genruntimeconfig.cache
+/Users/jonasvogel/RiderProjects/Delegate.UI/InputHandler/obj/Debug/net6.0/ref/InputHandler.dll

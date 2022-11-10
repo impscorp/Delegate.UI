@@ -1,0 +1,12 @@
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/bin/Debug/net6.0/Delegate.Lib.deps.json
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/bin/Debug/net6.0/Delegate.Lib.dll
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/bin/Debug/net6.0/Delegate.Lib.pdb
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/Delegate.Lib.csproj.AssemblyReference.cache
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/Delegate.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/Delegate.Lib.AssemblyInfoInputs.cache
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/Delegate.Lib.AssemblyInfo.cs
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/Delegate.Lib.csproj.CoreCompileInputs.cache
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/Delegate.Lib.dll
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/refint/Delegate.Lib.dll
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/Delegate.Lib.pdb
+/Users/jonasvogel/RiderProjects/Delegate.UI/Delegate.Lib/obj/Debug/net6.0/ref/Delegate.Lib.dll

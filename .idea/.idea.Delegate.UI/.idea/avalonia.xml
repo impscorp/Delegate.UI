@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Delegate.UI/App.axaml" value="Delegate.UI/Delegate.UI.csproj" />
+        <entry key="Delegate.UI/Views/ChildTick.axaml" value="Delegate.UI/Delegate.UI.csproj" />
+        <entry key="Delegate.UI/Views/ChildTimerWindow.axaml" value="Delegate.UI/Delegate.UI.csproj" />
+        <entry key="Delegate.UI/Views/ChildWindow.axaml" value="Delegate.UI/Delegate.UI.csproj" />
+        <entry key="Delegate.UI/Views/MainWindow.axaml" value="Delegate.UI/Delegate.UI.csproj" />
+        <entry key="Delegate.UI/Views/childTimer.axaml" value="Delegate.UI/Delegate.UI.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
